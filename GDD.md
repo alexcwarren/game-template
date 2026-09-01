@@ -2,7 +2,7 @@
 
 > By Alex C Warren
 
-![GAME_LOGO](/assets/images/game-logo.jpg "Game Logo")
+![GAME_LOGO](/assets/images/<game-logo-filename> "Game Logo")
 
 ## Introduction
 
@@ -50,13 +50,13 @@
 
 | Mechanic | Animated Mockup <br> *(Art not necessarily final)* |
 | -------- | ------------------------------------------------------ |
-| **<MECHANIC_1>** <br> ... | ![MECHANIC1](/assets/images/mechanic1.gif "Mechanic 1") |
+| **<PRIMARY_MECHANIC_1>** <br> ... | ![PRIMARY_MECHANIC1](/assets/images/<primary-mechanic1_gif_filename> "Primary Mechanic 1") |
 
 ### Secondary Mechanics
 
 | Mechanic | Animated Mockup <br> *(Art not necessarily final)* |
 | -------- | ------------------------------------------------------ |
-| **<MECHANIC_1>** <br> ... | ![MECHANIC1](/assets/images/mechanic1.gif "Mechanic 1") |
+| **<SECONDARY_MECHANIC_1>** <br> ... | ![SECONDARY_MECHANIC1](/assets/images/<secondary-mechanic1-gif-filename> "Secondary Mechanic 1") |
 
 ## Art
 

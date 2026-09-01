@@ -17,3 +17,6 @@ mono_crash.*.json
 
 # Export credentials can contain signing secrets
 export_credentials.cfg
+
+# Godot/editor temporary files
+*.tmp
